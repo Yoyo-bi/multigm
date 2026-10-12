@@ -6,7 +6,8 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/Yoyo-bi/multigm```
+```bash $ git clone https://github.com/Yoyo-bi/multigm
+```
 
 ```bash $ cd multigm```
 
