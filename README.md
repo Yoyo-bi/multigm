@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Sdominio```
+```bash $ git clone https://github.com/Yoyo-bi/multigm```
 
-```bash $ cd Sdomin```
+```bash $ cd multigm```
 
 ```bash $ pip3 install -r requirements.txt```
 
