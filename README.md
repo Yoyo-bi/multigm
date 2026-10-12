@@ -1,0 +1,2 @@
+# multigm
+Script Termux 
