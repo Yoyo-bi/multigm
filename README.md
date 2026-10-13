@@ -8,4 +8,4 @@ Esta herramienta nos permite extrapolar nuestros correos de una forma fácil e i
 ## Instalación y Ejecución
 
 ```bash
-git clone [https://github.com/Yoyo-bi/multigm](https://github.com/Yoyo-bi/multigm)
+git clone https://github.com/Yoyo-bi/multigm
